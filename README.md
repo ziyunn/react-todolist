@@ -22,10 +22,10 @@ static defaultProps = {
 }
 
 ## 함수형 컴포넌트
-참고 : Functional Component(https://velopert.com/2994)
-React 에서 컴포넌트를 정의 할 때는 보통 EcmaScipt 6 에 도입된 class 문법을 사용
-but,
-state 나 라이프사이클 API 를 전혀 사용하지 않을 때   
+참고 : Functional Component(https://velopert.com/2994)  
+React 에서 컴포넌트를 정의 할 때는 보통 EcmaScipt 6 에 도입된 class 문법을 사용  
+but,  
+state 나 라이프사이클 API 를 전혀 사용하지 않을 때     
 그리고 해당 컴포넌트는 자체 기능은 따로 없고 props 가 들어가면 뷰가 나온다는 것을 명시하기 위해 사용
 
 ## LifeCycle API
