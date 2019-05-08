@@ -3,7 +3,11 @@
       todolist app을 실습을 통해 컴포넌트 나누기 / props & state 관리 / 이벤트 처리를 직접 해보기
 2. 참고 :  
 [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)  
-         [React.js cheatsheet](https://devhints.io/react)
+[React.js cheatsheet](https://devhints.io/react)
+         
+3. 결과 : 
+<img src="https://user-images.githubusercontent.com/18348345/57347394-18af9b80-718d-11e9-9470-894aad94c76e.png" width="80%">
+    
 ***
 
 ES6 에 도입된 키워드  
