@@ -1,7 +1,7 @@
 # 리액트
 1. 목표 : 리액트 문법을 익히고, 
       todolist app을 실습을 통해 컴포넌트 나누기 / props & state 관리 / 이벤트 처리를 직접 해보기
-2. 참고 : [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)
+2. 참고 : [React 기초 입문 프로젝트 – 흔하디 흔한 할 일 목록 만들기](https://velopert.com/3480)  
          [React.js cheatsheet](https://devhints.io/react)
 ***
 
