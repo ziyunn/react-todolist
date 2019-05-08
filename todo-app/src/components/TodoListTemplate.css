@@ -1,0 +1,28 @@
+:root {
+    --mainColor : #F8D800
+}
+.todo-list-template {
+  background: white;
+  width: 512px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  margin: 0 auto;
+  margin-top: 4rem;
+}
+
+.title {
+  padding: 2rem;
+  font-size: 2.5rem;
+  text-align: center;
+  font-weight: 100;
+  background-image: linear-gradient( 135deg, #FDEB71 10%, #F8D800 100%);
+  color: white;
+}
+
+.form-wrapper {
+  padding: 1rem;
+  border-bottom: 1px solid var(--mainColor);
+}
+
+.todos-wrapper {
+  min-height: 5rem;
+}
